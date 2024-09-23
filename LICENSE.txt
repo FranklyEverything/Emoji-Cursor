@@ -1,0 +1,41 @@
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License
+
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License ("Public License").
+
+[Include the full text of the CC BY-NC-ND 4.0 License here or provide a link.]
+
+---
+
+**Emoji Cursor** by **Frankly Everything** is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**.
+
+To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+---
+
+**Disclaimer**
+
+**No Warranty:** The software is provided "as is", without warranty of any kind, express or implied. Frankly Everything holds no responsibility or liability for any damages resulting from the use of this program.
+
+---
+
+**Attribution**
+
+When sharing this application, you must give appropriate credit by mentioning **Frankly Everything** and providing a link to the Instagram profile:
+
+- **Instagram:** [@frankly_everything](https://www.instagram.com/frankly_everything/)
+
+---
+
+**Emoji Images License**
+
+Please note that the emoji images used in this application are licensed separately:
+
+- **Twemoji by Twitter**
+  - License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+  - You must provide proper attribution if distributing the application with these images.
+- **Noto Emoji by Google**
+  - License: [SIL Open Font License 1.1](https://scripts.sil.org/OFL)
+  - Ensure compliance with the terms of this license when using these images.
+
+---
+

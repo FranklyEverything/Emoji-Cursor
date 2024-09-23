@@ -1,0 +1,18 @@
+# Disclaimer
+
+The Emoji Cursor application is provided "as is" without any guarantees or warranty. In association with the product, **Frankly Everything** makes no warranties of any kind, either express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, of title, or of noninfringement of third-party rights. Use of the product by a user is at the user's risk.
+
+**Limitation of Liability**
+
+In no event shall **Frankly Everything** be liable for any claims, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+**Intended Use**
+
+This program was created and intended for fun and educational purposes. It is not for commercial use and should not be sold or used for profit.
+
+**Third-Party Content**
+
+The application uses third-party emoji images from Twemoji and Noto Emoji, which are subject to their respective licenses. Users are responsible for complying with these licenses.
+
+---
+
